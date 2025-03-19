@@ -7,5 +7,8 @@ title: "Transformers: Revolution"
 # Rules
 - [[Starseeker (Example Character)]]
 ## Character Creation
-- [[Assets (Items)]]
+```dataview
+LIST
+FROM #rules and "content/Rules/Character Creation"
+```
 # Lore
