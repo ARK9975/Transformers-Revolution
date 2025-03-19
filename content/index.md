@@ -7,7 +7,7 @@ title: "Transformers: Revolution"
 # Rules
 - [[Starseeker (Example Character)]]
 ## Character Creation
-- [[Assets]]
+- [[content/Rules/Character Creation/Assets|Assets]]
 - [[Distinctions]]
 - [[Skills]]
 - [[Specs]]
