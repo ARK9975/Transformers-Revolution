@@ -1,7 +1,6 @@
 ---
-title: "<% tp.file.name %>"
+title: <% tp.file.title%>
 draft: false
 tags:
-  - 
 ---
  
