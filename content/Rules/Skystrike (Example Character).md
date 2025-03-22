@@ -1,5 +1,5 @@
 ---
-title: Starseeker (Example Character)
+title: Skystrike (Example Character)
 draft: false
 tags:
   - rules
@@ -90,7 +90,7 @@ created: 2025-03-14 22:54
 #### Path Blaster - **1d6**
 #### Energon Glaive - **1d6**
 ## Alt Mode
-**Archetype:** Support
+**Archetype:** Seeker
 ### (A) Specs
 #### Strength - **1d8**
 #### Speed - **1d12**

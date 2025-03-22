@@ -10,4 +10,4 @@ tags:
 - You start off with *3* distinctions at *1d8* each.
 # Example
 ## Both
-![[Starseeker (Example Character)#Distinctions]]
+![[Skystrike (Example Character)#Distinctions]]

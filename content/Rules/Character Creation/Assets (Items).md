@@ -10,8 +10,8 @@ tags:
 - You start off with *1* asset for both modes and *2* assets for each mode.
 # Example
 ## Both
-![[Starseeker (Example Character)#Assets]]
+![[Skystrike (Example Character)#Assets]]
 ## Bot Mode
-![[Starseeker (Example Character)#(B) Assets]]
+![[Skystrike (Example Character)#(B) Assets]]
 ## Alt mode
-![[Starseeker (Example Character)#(A) Assets]]
+![[Skystrike (Example Character)#(A) Assets]]

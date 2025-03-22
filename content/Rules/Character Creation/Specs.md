@@ -33,8 +33,8 @@ tags:
 
 # Example
 ## Both
-![[Starseeker (Example Character)#Specs]]
+![[Skystrike (Example Character)#Specs]]
 ## Bot Mode
-![[Starseeker (Example Character)#(B) Specs]]
+![[Skystrike (Example Character)#(B) Specs]]
 ## Alt mode
-![[Starseeker (Example Character)#(A) Specs]]
+![[Skystrike (Example Character)#(A) Specs]]
