@@ -8,6 +8,8 @@ tags:
  
 # Background
 - First created of the [[13 Primes]]
+- Warrior
+- Lawful good
 - The leader of the [[13 Primes]]
 - Resembles [[Primus]] the most
 	- Virtuous warrior

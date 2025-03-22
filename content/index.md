@@ -19,16 +19,4 @@ FROM #rules and "content/Rules/Character Creation"
 # Lore
 ## Mythology
 ### [[13 Primes]]
-1. [[Prima]]
-2. [[Vector Prime]]
-3. [[Alpha Trion]]
-4. [[Solus Prime]]
-5. [[Micronus Prime]]
-6. [[Alchemist Prime]]
-7. [[Nexus Prime]]
-8. [[Onyx prime]]
-9. [[Amalgamous Prime]]
-10. [[Quintis prime]]
-11. [[Liege Maximo]]
-12. [[Megatronus]]
-13. [[The Thirteenth Prime]]
+![[13 Primes#Members]]

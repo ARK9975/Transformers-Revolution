@@ -10,6 +10,4 @@ tags:
 - 
 ## Appearance
 
-## Role
-# Relic(s)
-##
+## Relic
