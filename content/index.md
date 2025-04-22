@@ -2,7 +2,7 @@
 title: "Transformers: Revolution"
 ---
 
-Welcome to Cybertron! It is the Age of Rust and the old ways of the Quintesson Empire are back. The Cybertronian empire has all but crumbled, energon is scarcer than ever, the castes system is the worst it has ever been, and a few brave sparks are rising up...
+Welcome to [[Cybertron]]! It is the [[Age of Rust]] and the old ways of the [[Quintesson Empire]] are back. The [[Cybertronian Empire]] has all but crumbled, [[Energon]] is scarcer than ever, the [[Caste System]] is the worst it has ever been, and the [[High Council]] enjoys the lap of luxury. Will you join the few brave sparks who are finally rising up?
 # Rules
 - [[Skystrike (Example Character)]]
 ## Character Creation

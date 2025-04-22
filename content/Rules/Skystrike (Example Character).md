@@ -6,7 +6,7 @@ tags:
 created: 2025-03-14 22:54
 ---
 # Background
-- **Age:** The Age of Wrath
+- **Age:** The [[Age of Wrath]]
 - **Gender:** Female
 - **Race:** Cybertronian
 - **Caste:** Warrior
