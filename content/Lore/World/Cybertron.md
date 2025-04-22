@@ -14,3 +14,4 @@ There is a legend about [[Primus]] being the core of Cybertron...
 # Map
 ![[CybertronMap.jpg]]
 Map of Cybertron (Ignore the descriptions)
+# Cities
