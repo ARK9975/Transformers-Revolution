@@ -12,5 +12,7 @@ Welcome to Cybertron! It is the Age of Rust and the old ways of the Quintesson E
 - [[Specs]]
 # Lore
 ## Mythology
+- [[Primus]]
+- [[Unicron]]
 ### [[13 Primes]]
 ![[13 Primes#Members]]
