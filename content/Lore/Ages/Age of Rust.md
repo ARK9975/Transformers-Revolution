@@ -3,6 +3,7 @@ title: Age of Rust
 draft: false
 tags:
   - "#lore"
+  - timeline
 ---
  
 The [[Age of Rust]] famously began with the halt of expansion and a mysterious [[Rust Plague]] began wiping out remote [[Cybertronian Empire]] colonies. News of the new [[Rust Plague]] had reached [[Cybertron]] shortly after a dozen colonies went offline, this caused a mass panic among the other colonies and on [[Cybertron]]. The [[High Council]] made the hasty decision to isolate [[Cybertron]] from the outer worlds in an effort to prevent the lethal disease from reaching the core of the [[Cybertronian Empire]]. 

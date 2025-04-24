@@ -3,6 +3,7 @@ title: Golden Age
 draft: false
 tags:
   - "#lore"
+  - timeline
 ---
  
 The [[Golden Age]] began with the end of the tyrannical rule of the [[Quintesson Empire]],  officially ending the [[Age of Wrath]]. The new [[Cybertron]] government remained under the rule of the [[High Council]] with [[Sentinel Zeta Prime]] and worked to abolish the [[Caste System]].
