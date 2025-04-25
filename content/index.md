@@ -16,8 +16,22 @@ Welcome to [[Cybertron]]! It is the [[Age of Rust]] and the old ways of the [[Qu
 2. [[Age of Wrath]]
 3. [[Golden Age]]
 4. [[Age of Rust]] (Current age)
-## Mythology
+## World
+### [[Cybertron]]
+- [[Cybertronian Empire]]
+- [[Energon]]
+- [[Geosynchronus Energon Bridge]]
+#### [[Caste System]]
+- [[Noble Class]]
+- [[Military Class]]
+- [[Worker Class]]
+#### Cities
+- [[Iacon]]
+- [[Crystal City]]
+- [[Kaon]]
+- [[Blaster City]]
+### Mythology
 - [[Primus]]
 - [[Unicron]]
-### [[13 Primes]]
+#### [[13 Primes]]
 ![[13 Primes#Members]]
