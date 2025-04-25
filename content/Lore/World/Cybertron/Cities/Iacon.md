@@ -7,21 +7,11 @@ tags:
   - city
 ---
 # Short Description
-[[Iacon]] city is the capital city of [[Cybertron]] and always has been throughout the ages.
+[[Iacon]] city is the capital city of [[Cybertron]] and always has been throughout the ages, it served as the HQ for the [[Quintesson Empire]] .
 # Information
-- **Location:** NW
+- **Location:** N
 - **Population:** 42 000 000
 - **Alias':** City of Dreamers
 ## Caste Split
-### [[Worker Class]] - **20%**
-Despite being the capital city of [[Cybertron]], [[Iacon]] is home to a significant number of [[Worker Class]] [[Cybertronian]]s. They are most commonly found in various 
-### [[Noble Class]] - **60%**
-The vast majority of the population of [[Iacon]] is made up of the [[Noble Class]]. The [[Noble Class]] is made up of various 
-### [[Military Class]] - **20%**
-
-#### [[Seekers]] - **10%**
-
-#### [[Keepers]] - **10%**
-
 ## Notable Features
 ### [[Iacon]] Archives

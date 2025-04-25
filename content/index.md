@@ -3,12 +3,6 @@ title: "Transformers: Revolution"
 ---
 
 Welcome to [[Cybertron]]! It is the [[Age of Rust]] and the old ways of the [[Quintesson Empire]] are back. The [[Cybertronian Empire]] has all but crumbled, [[Energon]] is scarcer than ever, the [[Caste System]] is the worst it has ever been, and the [[High Council]] enjoys the spoils of nameless [[Cybertronian]]s. Will you join the few brave sparks who are finally rising up?
-%%
-> [!example] Test
-> This is not working :(
-
-%%
-This is working!
 # Rules
 - [[Skystrike (Example Character)]]
 ## Character Creation
@@ -28,9 +22,9 @@ This is working!
 - [[Energon]]
 - [[Geosynchronus Energon Bridge]]
 #### [[Caste System]]
-- [[Noble Class]]
+- [[High Caste]]
 - [[Military Class]]
-- [[Worker Class]]
+- [[Low Caste]]
 #### Cities
 - [[Iacon]]
 - [[Crystal City]]

@@ -6,4 +6,3 @@ tags:
   - class
 ---
  
-# Role(s) in Society

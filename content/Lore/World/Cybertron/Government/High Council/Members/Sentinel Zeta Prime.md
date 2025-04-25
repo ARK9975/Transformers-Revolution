@@ -3,6 +3,9 @@ title: Sentinel Zeta Prime
 draft: false
 tags:
   - "#lore"
+  - highCaste
+  - highCouncil
+  - NPC
 ---
 
 > [!info] Current Appearance

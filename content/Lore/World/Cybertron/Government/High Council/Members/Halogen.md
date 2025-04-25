@@ -3,6 +3,9 @@ title: Halogen
 draft: false
 tags:
   - "#lore"
+  - highCaste
+  - highCouncil
+  - NPC
 ---
  
 >[!info] Current Appearance
