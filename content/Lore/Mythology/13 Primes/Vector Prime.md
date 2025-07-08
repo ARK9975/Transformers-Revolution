@@ -7,7 +7,7 @@ tags:
 ---
  
 # Background
-- Second created of the [[13 Primes]]
+- Second created of the [[👑 13 Primes]]
 - Warrior
 - Lawful good
 - Viewed himself as a mere extension of [[Primus]]

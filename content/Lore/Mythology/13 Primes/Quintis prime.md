@@ -7,10 +7,10 @@ tags:
 ---
  
 # Background
-- Tenth of the [[13 Primes]]
+- Tenth of the [[👑 13 Primes]]
 - Strategist
 - True neutral
-- Most intelligent among the [[13 Primes]]
+- Most intelligent among the [[👑 13 Primes]]
 	- Idealistic
 	- Perfectionist
 - Strongly believed life was the most important thing in the universe

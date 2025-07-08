@@ -7,13 +7,13 @@ tags:
 ---
  
 # Background
-- Seventh of the [[13 Primes]]
+- Seventh of the [[👑 13 Primes]]
 - Chaotic good
 - Balanced between [[Primus]] and [[Unicron]]
 - The first [[Combiner]]
 - Free agent
 - Source of the [[Cybertronian]]'s transformation ability
-- Trusted among most of the [[13 Primes]]
+- Trusted among most of the [[👑 13 Primes]]
 ## Appearance
 ![[200px-5NexusPrime.jpg]]
 ## Cyber Caliber

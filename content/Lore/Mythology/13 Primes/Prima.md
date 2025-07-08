@@ -7,13 +7,13 @@ tags:
 ---
  
 # Background
-- First created of the [[13 Primes]]
+- First created of the [[👑 13 Primes]]
 - Warrior
 - Lawful good
-- The leader of the [[13 Primes]]
+- The leader of the [[👑 13 Primes]]
 - Resembles [[Primus]] the most
 	- Virtuous warrior
-- "Bigger brother" to the rest of the [[13 Primes]]
+- "Bigger brother" to the rest of the [[👑 13 Primes]]
 	- Over confident
 	- Difficult to deal with
 - Often clashed with [[Megatronus]], his direct opposite

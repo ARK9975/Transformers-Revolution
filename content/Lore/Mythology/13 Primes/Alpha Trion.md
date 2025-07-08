@@ -7,7 +7,7 @@ tags:
 ---
  
 # Background
-- Third created of the [[13 Primes]]
+- Third created of the [[👑 13 Primes]]
 - Neutral good
 - Strategist
 ## Appearance

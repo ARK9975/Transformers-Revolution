@@ -7,11 +7,11 @@ tags:
 ---
  
 # Background
-- Twelfth of the [[13 Primes]]
+- Twelfth of the [[👑 13 Primes]]
 - Warrior
 - Neutral Evil
-- Physically strongest among the [[13 Primes]]
-- Darkest and most akin to [[Unicron]] among the [[13 Primes]]
+- Physically strongest among the [[👑 13 Primes]]
+- Darkest and most akin to [[Unicron]] among the [[👑 13 Primes]]
 - Direct opposite of [[Prima]]
 - Later given to title of ***The Fallen***
 ## Appearance

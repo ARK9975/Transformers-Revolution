@@ -7,5 +7,4 @@ tags:
  
 - [[Primus]]
 - [[Unicron]]
-### [[13 Primes]]
-![[13 Primes#Members]]
+### [[👑 13 Primes]]

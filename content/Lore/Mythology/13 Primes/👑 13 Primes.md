@@ -4,6 +4,7 @@ draft: false
 tags:
   - "#lore"
   - prime
+  - centralPage
 ---
 
 The 13 Primes were created by [[Primus]] as a way to combat [[Unicron]] after their eons of battle remaining in a stalemate. The 13 were modeled based on traits from both [[Primus]] and [[Unicron]] which helped immensely with defeating [[Unicron]] but ultimately lead to their downfall.

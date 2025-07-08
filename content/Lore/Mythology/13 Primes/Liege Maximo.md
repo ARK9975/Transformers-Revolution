@@ -7,10 +7,10 @@ tags:
 ---
  
 # Background
-- **Eleventh** of the [[13 Primes]]
+- **Eleventh** of the [[👑 13 Primes]]
 - Strategist
 - Chaotic evil
-- Caused the eventual fracture of the [[13 Primes]]
+- Caused the eventual fracture of the [[👑 13 Primes]]
 - Highly charismatic
 - Master manipulator
 ## Appearance

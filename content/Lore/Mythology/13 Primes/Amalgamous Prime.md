@@ -7,7 +7,7 @@ tags:
 ---
  
 # Background
-- Ninth of the [[13 Primes]]
+- Ninth of the [[👑 13 Primes]]
 - Warrior
 - Chaotic good
 - Good-natured prankster

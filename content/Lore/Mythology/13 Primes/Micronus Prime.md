@@ -7,10 +7,10 @@ tags:
 ---
  
 # Background
-- Fifth of the [[13 Primes]]
+- Fifth of the [[👑 13 Primes]]
 - Strategist
 - True neutral
-- Worked with [[Solus Prime]] to help augment the [[13 Primes]] artifacts
+- Worked with [[Solus Prime]] to help augment the [[👑 13 Primes]] artifacts
 - Precursor of the [[Minicon]]s
 ## Appearance
 ![[350px-11MicronusPrime.jpg]]

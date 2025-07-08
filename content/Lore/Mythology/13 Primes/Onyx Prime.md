@@ -7,7 +7,7 @@ tags:
 ---
  
 # Background
-- Eight of the [[13 Primes]]
+- Eight of the [[👑 13 Primes]]
 - Warrior
 - Chaotic good
 - Most spiritually minded
