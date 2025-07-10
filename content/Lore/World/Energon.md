@@ -14,7 +14,7 @@ Energon is most commonly found in it's crystallized form below the surface of [[
 ## Liquid (Unprocessed)
 Raw unprocessed Energon can also be found in a liquid state. The liquid has a soft glow matching it's variant and it shares similar unstable properties with crystallized Energon.
 ## Liquid (Processed/Refined)
-Processed Energon always takes a liquid state and is the most versatile form. It is what runs in the veins of every Cybertronian, powers every piece of machinery, and is fired out of every weapon. It is the most stable state of Energon making it possible to be stored and transported in a number of different ways. Energon cubes are cube-shaped containers that contain a standard amount of processed Energon, pipelines are also common to transport vast quantities of refined Energon. Rumor has it that someone even managed to build a device that can transport processed Energon with no physical connection...
+Processed Energon always takes a liquid state and is the most versatile form. It is what runs in the veins of every Cybertronian, powers every piece of machinery, and is fired out of every weapon. It is the most stable state of Energon making it possible to be stored and transported in a number of different ways. Energon cubes are cube-shaped containers that contain a standard amount of processed Energon, pipelines are also common to transport vast quantities of refined Energon. Rumour has it that someone even managed to build a device that can transport processed Energon with no physical connection...
 # Variants
 Energon can be found in many variants, each variant has different properties and use cases. 
 ## Live Energon
