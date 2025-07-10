@@ -9,6 +9,7 @@ Energon is a (generally) naturally occurring fuel source found in a crystal (unp
 
 # Forms
 ## Crystal (Unprocessed)
+
 Energon is most commonly found in it's crystallized form below the surface of [[Cybertron]]. It appears as a glittering crystal embedded into the metal of [[Cybertron]] itself. The ore is highly volatile and reacts violently with physical disruptions.
 ## Liquid (Unprocessed)
 Raw unprocessed Energon can also be found in a liquid state. The liquid has a soft glow matching it's variant and it shares similar unstable properties with crystallized Energon.
@@ -19,9 +20,8 @@ Energon can be found in many variants, each variant has different properties and
 ## Live Energon
 Live Energon is the most common variant of naturally occurring Energon. It is always glows a cobalt blue when raw which turns into a lighter azure blue when processed. It is a generalist among the variants of Energon and doesn't particularly excel at anything.
 ## Red Energon
-![[redEnergonCrystal.png|100]]
 Red Energon is an extremely rare artificial variant of Energon. This variant glows a crimson red. It's energy density is significantly higher than that of [[#Live Energon]] resulting in an automatic overclock in whatever it was used in. It is most effective when injected into [[Cybertronian]]'s directly but it also functions as an overclock in most machinery and weapons. The higher energy density makes it nearly as unstable as unprocessed Energon, making transport and usage highly hazardous. 
 ## Synthetic Energon (SynthEn)
 Synthetic Energon is a less potent artificially made variant of [[#Live Energon]]. It glows a sickly green. SynthEn was never completed resulting in existing batches having nasty side effects alongside the less potent usage. Some side effects include: increased aggression, addiction, faster burn of [[#Live Energon]], and instability when mixed with other Energon variants. 
 ## Dark Energon
-???
+Dark Energon is a myth... and maybe it's purple?
