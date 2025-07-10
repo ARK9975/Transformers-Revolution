@@ -11,8 +11,11 @@ tags:
 # [[🔮 Mythology]]
 ## Gods
 - [[Primus]]
+	-  [[👑 13 Primes]]
 - [[Unicron]]
-## [[👑 13 Primes]]
-# Factions
+# World
+## Factions
 - [[Cybertronian Empire]]
 - [[Quintesson Empire]]
+## Resources
+- [[Energon]]
