@@ -14,6 +14,4 @@ Welcome to [[Cybertron]]! It is the [[Age of Rust]] and the old ways of the [[Qu
 2. TTRPGs are **supposed** to be fun, so we absolutely can take some liberties.
 3.  Please try not to metagame. (I'm guilty of doing this too)
 ## Sources & Inspiration
-This is not going to be a particularly original story, I am essentially taking a bunch of different ideas/concepts/arcs and smashing them together praying it all works. It is mainly based on the *Transformers Aligned Continuity* with a lot borrowed from various *IDW* comics and generic Transformers media.
-
-With that said **DO NOT** treat any information from other Transformers media as cannon to the setting, chances are I have changed it our am planning on doing so. Shoot me a message and I'll be happy to help!
+This is not going to be a particularly original story, I am essentially taking a bunch of different ideas/concepts/arcs and smashing them together praying it all works. It is mainly based on the *Transformers Aligned Continuity* with a lot borrowed from various *IDW* comics (Main continuity and tie-ins) as well as generic media.
